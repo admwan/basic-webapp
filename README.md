@@ -1,4 +1,7 @@
 # simple-webapp
+
+Dit komt van de pagina: https://www.reddit.com/r/java/comments/j53tql/a_pure_java_se_webapp_example/
+
 A simple Java WebApp with REST
 
 The idea is to use standard JDK features and not really on any further frameworks. 

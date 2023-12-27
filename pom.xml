@@ -5,18 +5,25 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ch.eitchnet</groupId>
-    <artifactId>simple-webapp</artifactId>
+    <artifactId>basic-webapp</artifactId>
     <version>0.1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
-    <name>simple-webapp</name>
+    <name>webapp</name>
     <!-- FIXME change it to the project's website -->
     <url>http://www.example.com</url>
-
+<!--
     <scm>
         <connection>scm:git:git@github.com:eitch/simple-webapp.git</connection>
         <developerConnection>scm:git:git@github.com:eitch/simple-webapp.git</developerConnection>
         <url>https://github.com/eitch/simple-webapp</url>
+    </scm>
+-->
+
+    <scm>
+        <connection>scm:git:git@github.com:admwan/basic-webapp.git</connection>
+        <developerConnection>scm:git:git@github.com:admwan/basic-webapp.git</developerConnection>
+        <url>https://github.com/admwan/basic-webapp</url>
     </scm>
 
     <licenses>
@@ -33,7 +40,7 @@
 
         <jdk.version>11</jdk.version>
 
-        <appFinalName>simple-webapp</appFinalName>
+        <appFinalName>basic-webapp</appFinalName>
 
         <tomcat7Url>http://localhost:8080/manager/text</tomcat7Url>
         <tomcat7ServerId>tomcat.local</tomcat7ServerId>

@@ -1,4 +1,4 @@
-package ch.eitchnet.simple.webapp;
+package net.spikesync.basic.webapp;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.ws.rs.*;

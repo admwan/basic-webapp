@@ -8,8 +8,8 @@
 		<servlet-name>UserServlet</servlet-name>
 		<servlet-class>net.spikesync.basic.webapp.UserServlet</servlet-class>
 	</servlet>
-	<servlet-mapping>	
-	<servlet-name>UserServlet</servlet-name>
-	<url-pattern>/api/users/*</url-pattern>
+	<servlet-mapping>
+		<servlet-name>UserServlet</servlet-name>
+		<url-pattern>/userservlet/*</url-pattern>
 	</servlet-mapping>
 </web-app>
